@@ -10,3 +10,4 @@ __pycache__
 /submissions
 /tensorboard_events
 /task_helpers/tags.py
+.ipynb_checkpoints/
